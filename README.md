@@ -1,5 +1,3 @@
-# Firebase Studio
+#Quick Note App.
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Built For testing But can be used professionally Without any issue :v
